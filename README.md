@@ -1,6 +1,6 @@
 <h1>Alurabook</h1>
 <p>Página desenvolvida no curso HTML e CSS: Responsividade com mobile-first.</p>
-<p> Link: #</p>
+<p> Link: https://juniormartini.github.io/Alurabook/</p>
 
 <h2> Versão mobile </h2>
 
